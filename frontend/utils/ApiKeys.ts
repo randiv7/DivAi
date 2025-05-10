@@ -1,0 +1,2 @@
+// utils/ApiKeys.ts
+export const OPENAI_API_KEY = "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";
